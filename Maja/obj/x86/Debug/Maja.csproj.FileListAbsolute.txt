@@ -1,0 +1,5 @@
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Maja\Maja\bin\Debug\Maja.exe
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Maja\Maja\bin\Debug\Maja.pdb
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Maja\Maja\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Maja\Maja\obj\x86\Debug\Maja.exe
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Maja\Maja\obj\x86\Debug\Maja.pdb

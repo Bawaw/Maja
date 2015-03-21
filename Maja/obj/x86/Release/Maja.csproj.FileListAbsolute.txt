@@ -1,0 +1,2 @@
+C:\Users\Mr. Bawaw\AppData\Local\Temporary Projects\Maja\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mr. Bawaw\documents\visual studio 2010\Projects\Maja\Maja\obj\x86\Release\ResolveAssemblyReference.cache
